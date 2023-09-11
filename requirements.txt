@@ -1,4 +1,4 @@
-bs4==4.11.1
+bs4==0.0.1
 datasets==2.10.1
 flatbuffers==23.3.3
 fonttools==4.25.0
